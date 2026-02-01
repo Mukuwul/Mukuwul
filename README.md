@@ -4,11 +4,6 @@
   
 💡 **Turning complex problems into efficient solutions | Full-Stack Developer & Competitive Programmer**
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs)](ADD_RESUME_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-brightgreen?style=for-the-badge&logo=google-chrome)](#)
-
 </div>
 
 ---
@@ -84,15 +79,6 @@ I enjoy working at the intersection of **DSA, backend systems, and full-stack de
 - 🎯 **JEE Mains 2023:** Top **1.5%** among 1.1M+ candidates  
 
 ---
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-
 ---
 
 ## 🎯 What I'm Working On
