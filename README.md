@@ -1,75 +1,127 @@
-# Mukul Negi 👋
+# Hey there! 👋 I'm Mukul Negi
 
-> B.Tech CSE student @ BIT Mesra | Competitive programmer | Full-stack dev  
-> Open to internships, collaborations, and interesting projects.
+<div align="center">
+  
+💡 **Turning complex problems into efficient solutions | Full-Stack Developer & Competitive Programmer**
 
----
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs)](ADD_RESUME_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-brightgreen?style=for-the-badge&logo=google-chrome)](#)
 
-## 🔎 About me
-I'm a Computer Science undergrad (2023–2027) at Birla Institute of Technology, Mesra with a strong interest in algorithms, distributed systems, and full-stack web development. I love turning ideas into working products — from algorithmic problem solving to building secure, scalable web apps.
-
-**Quick facts**
-- 🎓 B.Tech — Computer Science & Engineering (BIT Mesra). CGPA: **8.57/10** (till 5th sem).  
-- 💻 Strong DSA & CP background — solved **600+** problems across LeetCode, Codeforces, CodeChef.  
-- 📈 Competitive ratings: **LeetCode 1817**, **Codeforces max 1455**, **CodeChef max 1667**.  
-- 🏆 Ranked in the **top 1.5% (98.4%)** of ~1.1M aspirants in JEE Mains 2023.  
-- 🏅 Winner / Finalist in multiple hackathons (24–48 hour full-stack builds).
+</div>
 
 ---
 
-## 🛠️ Tech & Tools
-**Languages:** C++, JavaScript, SQL  
-**Frontend:** HTML, CSS, Tailwind CSS, React  
-**Backend:** Node.js, Express.js, MongoDB, MySQL  
-**Dev Tools:** Git, GitHub, Postman, VS Code  
-**Other:** JWT, bcrypt, REST APIs, React Context API
+## 🚀 About Me
+
+I'm a **Computer Science undergraduate at BIT Mesra (2023–2027)** passionate about building scalable web applications and solving algorithmic challenges.
+
+I enjoy working at the intersection of **DSA, backend systems, and full-stack development** — building real products while sharpening problem-solving skills through competitive programming.
+
+- 🔭 **Currently working on**: Full-stack web apps & system design fundamentals  
+- 🌱 **Learning**: Advanced backend architecture & scalable system design  
+- 🧠 **Strong in**: Data Structures & Algorithms, REST APIs, Authentication Systems  
+- 🏆 **Competitive Programmer** with 600+ problems solved  
+- 📫 **Reach me**: nmukul32@gmail.com  
 
 ---
 
-## 📂 Selected Projects
+## 🛠️ Skills
 
-### **STOCKER — Inventory & Stock Management**
-- **Stack:** React, Node.js, Express, MongoDB, JWT, bcrypt, REST APIs  
-- Built full-stack app to manage products, warehouses, and stock movement.  
-- Implemented secure JWT authentication, role-based access control, and CRUD APIs.  
-- Used Context API & Axios for state and API handling; reusable React components for smooth UI flows.
+### Programming Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### **COIN WATCH — Real-Time Crypto Dashboard**
-- **Stack:** React, Axios, Context API, React Router, Tailwind CSS  
-- Responsive dashboard that displays live crypto prices fetched from public APIs.  
-- Designed efficient global state with Context API and handled asynchronous updates in React hooks.
+### Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-*(More projects & repos on my GitHub — link below.)*
+### Backend & Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat-square)
 
----
-
-## 🏛️ Leadership & Activities
-- **Technical Lead**, IEEE Student Chapter, BIT Mesra — leading dev team, mentoring, organizing hackathons (Nov 2024 – Present).  
-- **Technical Member**, GDSC BIT Mesra — contributed to cloud & full-stack projects, conducted coding sessions (Oct 2023 – Present).
-
----
-
-## 🎯 Achievements
-- LeetCode rating: **1817**  
-- Codeforces: **Specialist**, max **1455**  
-- CodeChef: **3★**, max **1667**  
-- Solved **600+** problems across platforms  
-- Hackathon winner/finalist (2+ events)
+### Developer Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📫 Contact
-- Phone: `8265921486`  
-- Email: `nmukul32@gmail.com`  
-- LinkedIn: *(add your LinkedIn URL)*  
-- GitHub: *(add your GitHub URL)*  
-- LeetCode / Codeforces / CodeChef: *(add links if you want them shown)*
+## 🌟 Featured Projects
+
+### 📦 **Stocker — Inventory & Stock Management System**
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT, bcrypt  
+
+- Built a full-stack inventory platform managing products, warehouses, and stock flow  
+- Implemented **secure JWT authentication** and **role-based access control**  
+- Designed RESTful APIs and reusable React components for smooth UI  
 
 ---
 
-## ⚡ Want to collaborate?
-I'm open to internships, part-time roles, and open-source contributions. DM me on GitHub or email me — always happy to chat about interesting problems or project ideas.
+### 📈 **Coin Watch — Real-Time Crypto Dashboard**
+**Tech Stack:** React, Context API, Axios, Tailwind CSS  
+
+- Displays live cryptocurrency prices using public APIs  
+- Optimized global state management with Context API  
+- Built responsive UI for real-time financial tracking  
 
 ---
 
-*Resume & details source: Mukul's resume.* :contentReference[oaicite:1]{index=1}
+## 🏆 Achievements
+
+- 💪 Solved **600+ DSA problems** across platforms  
+- 🟡 **LeetCode Rating:** 1817  
+- 🔵 **Codeforces Max Rating:** 1455 (Specialist)  
+- 🟤 **CodeChef Max Rating:** 1667 (3★)  
+- 🎯 **JEE Mains 2023:** Top **1.5%** among 1.1M+ candidates  
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+---
+
+## 🎯 What I'm Working On
+
+- 🚀 Strengthening **system design & backend architecture**
+- 🧠 Practicing **advanced DSA & competitive programming**
+- 🛠️ Building **scalable full-stack applications**
+- 🌍 Preparing for **internships & software engineering roles**
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to internships, collaborations, and interesting tech discussions.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_LINK)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmukul32@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**"First solve the problem. Then write the code." — John Johnson**
+
+⭐ **If you like my work, consider starring a repo!** ⭐
+
+</div>
