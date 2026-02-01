@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Mukul Negi
+# Hey there!  I'm Mukul Negi
 
 <div align="center">
   
