@@ -2,7 +2,7 @@
 
 <div align="center">
   
-💡 **Turning complex problems into efficient solutions | Full-Stack Developer & Competitive Programmer**
+ **Turning complex problems into efficient solutions | Full-Stack Developer & Competitive Programmer**
 
 </div>
 
