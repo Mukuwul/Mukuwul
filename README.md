@@ -23,7 +23,7 @@ I enjoy working at the intersection of **DSA, backend systems, and full-stack de
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
