@@ -15,11 +15,11 @@ I'm a **Computer Science undergraduate at BIT Mesra (2023–2027)** passionate a
 
 I enjoy working at the intersection of **DSA, backend systems, and full-stack development** — building real products while sharpening problem-solving skills through competitive programming.
 
-- 🔭 **Currently working on**: Full-stack web apps & system design fundamentals  
-- 🌱 **Learning**: Advanced backend architecture & scalable system design  
-- 🧠 **Strong in**: Data Structures & Algorithms, REST APIs, Authentication Systems  
-- 🏆 **Competitive Programmer** with 600+ problems solved  
-- 📫 **Reach me**: nmukul32@gmail.com  
+-  **Currently working on**: Full-stack web apps & system design fundamentals  
+-  **Learning**: Advanced backend architecture & scalable system design  
+-  **Strong in**: Data Structures & Algorithms, REST APIs, Authentication Systems  
+-  **Competitive Programmer** with 600+ problems solved  
+-  **Reach me**: nmukul32@gmail.com  
 
 ---
 
