@@ -69,7 +69,7 @@ I enjoy working at the intersection of **DSA, backend systems, and full-stack de
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - 💪 Solved **600+ DSA problems** across platforms  
 - 🟡 **LeetCode Rating:** 1817  
