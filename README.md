@@ -71,11 +71,11 @@ I enjoy working at the intersection of **DSA, backend systems, and full-stack de
 
 ##  Achievements
 
-- 💪 Solved **600+ DSA problems** across platforms  
-- 🟡 **LeetCode Rating:** 1817  
-- 🔵 **Codeforces Max Rating:** 1455 (Specialist)  
-- 🟤 **CodeChef Max Rating:** 1667 (3★)  
-- 🎯 **JEE Mains 2023:** Top **1.5%** among 1.1M+ candidates  
+-  Solved **600+ DSA problems** across platforms  
+-  **LeetCode Rating:** 1817  
+-  **Codeforces Max Rating:** 1455 (Specialist)  
+-  **CodeChef Max Rating:** 1667 (3★)  
+-  **JEE Mains 2023:** Top **1.5%** among 1.1M+ candidates  
 
 ---
 ---
