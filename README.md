@@ -89,7 +89,7 @@ I enjoy working at the intersection of **DSA, backend systems, and full-stack de
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I'm always open to internships, collaborations, and interesting tech discussions.
 
