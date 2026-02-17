@@ -80,12 +80,12 @@ I enjoy working at the intersection of **DSA, backend systems, and full-stack de
 ---
 ---
 
-## 🎯 What I'm Working On
+##  What I'm Working On
 
-- 🚀 Strengthening **system design & backend architecture**
-- 🧠 Practicing **advanced DSA & competitive programming**
-- 🛠️ Building **scalable full-stack applications**
-- 🌍 Preparing for **internships & software engineering roles**
+-  Strengthening **system design & backend architecture**
+-  Practicing **advanced DSA & competitive programming**
+-  Building **scalable full-stack applications**
+-  Preparing for **internships & software engineering roles**
 
 ---
 
