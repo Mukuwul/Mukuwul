@@ -107,6 +107,6 @@ I'm always open to internships, collaborations, and interesting tech discussions
 
 **"First solve the problem. Then write the code." — John Johnson**
 
-⭐ **If you like my work, consider starring a repo!** ⭐
+ **If you like my work, consider starring a repo!** 
 
 </div>
