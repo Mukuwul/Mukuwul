@@ -60,7 +60,7 @@ I enjoy working at the intersection of **DSA, backend systems, and full-stack de
 
 ---
 
-###  **Coin Watch — Real-Time Crypto Dashboard**
+### **Coin Watch — Real-Time Crypto Dashboard**
 **Tech Stack:** React, Context API, Axios, Tailwind CSS  
 
 - Displays live cryptocurrency prices using public APIs  
@@ -69,7 +69,7 @@ I enjoy working at the intersection of **DSA, backend systems, and full-stack de
 
 ---
 
-##  Achievements
+## Achievements
 
 -  Solved **600+ DSA problems** across platforms  
 -  **LeetCode Rating:** 1817  
