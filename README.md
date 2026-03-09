@@ -7,6 +7,7 @@
 
 ---
 
+
 ##  About Me
 
 I'm a **Computer Science undergraduate at BIT Mesra (2023–2027)** passionate about building scalable web applications and solving algorithmic challenges.
