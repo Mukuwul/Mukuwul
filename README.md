@@ -1,3 +1,8 @@
+<!-- TOP ANIMATION -->
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%" alt="coding animation" />
+</div>
+
 <!-- HEADER BANNER -->
 <a href="https://github.com/Mukuwul">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3572a5,100:61DAFB&height=200&section=header&text=Mukul%20Negi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18" alt="header" />
@@ -6,13 +11,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Turning+complex+problems+into+efficient+solutions;CSE+%40+BIT+Mesra+(2023-2027);600%2B+DSA+problems+solved;Building+scalable+full-stack+applications)](https://git.io/typing-svg)
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Mukuwul&label=Profile%20views&color=3572a5&style=flat" alt="profile views" />
-<a href="https://github.com/Mukuwul?tab=followers">
-  <img src="https://img.shields.io/github/followers/Mukuwul?label=Followers&style=flat&color=3572a5" alt="followers" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Turning+complex+problems+into+efficient+solutions;CSE+%40+BIT+Mesra+%282023-2027%29;900%2B+DSA+problems+solved;LeetCode+Rating+1964;Building+scalable+full-stack+applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +24,7 @@ I'm a **Computer Science undergraduate at BIT Mesra (2023–2027)** passionate a
 - 🔭 **Currently working on:** Full-stack web apps & system design fundamentals
 - 🌱 **Learning:** Advanced backend architecture & scalable system design
 - 💪 **Strong in:** Data Structures & Algorithms, REST APIs, Authentication Systems
-- 🏆 **Competitive Programmer** with **600+ problems solved**
+- 🏆 **Competitive Programmer** with **900+ problems solved**
 - 📫 **Reach me:** nmukul32@gmail.com
 
 ---
@@ -57,25 +56,6 @@ I'm a **Computer Science undergraduate at BIT Mesra (2023–2027)** passionate a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukuwul&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=61DAFB&icon_color=61DAFB" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukuwul&layout=compact&hide_border=true&theme=tokyonight&title_color=61DAFB&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukuwul&hide_border=true&theme=tokyonight&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="streak" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Mukuwul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-
-</div>
-
----
-
 ## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
@@ -90,28 +70,10 @@ I'm a **Computer Science undergraduate at BIT Mesra (2023–2027)** passionate a
 
 ---
 
-## 🚀 Featured Projects
-
-### 📦 Stocker — Inventory & Stock Management System
-**Tech:** React · Node.js · Express · MongoDB · JWT · bcrypt
-
-- Built a full-stack inventory platform managing products, warehouses, and stock flow
-- Implemented **secure JWT authentication** and **role-based access control**
-- Designed RESTful APIs and reusable React components for a smooth UI
-
-### 💹 Coin Watch — Real-Time Crypto Dashboard
-**Tech:** React · Context API · Axios · Tailwind CSS
-
-- Displays live cryptocurrency prices using public APIs
-- Optimized global state management with Context API
-- Built a responsive UI for real-time financial tracking
-
----
-
 ## 🏅 Achievements
 
-- ✅ Solved **600+ DSA problems** across platforms
-- 🟡 **LeetCode Rating:** 1817
+- ✅ Solved **900+ DSA problems** across platforms
+- 🟡 **LeetCode Rating:** 1964
 - 🔵 **Codeforces Max Rating:** 1455 *(Specialist)*
 - 🟤 **CodeChef Max Rating:** 1667 *(3★)*
 - 🎯 **JEE Mains 2023:** Top **1.5%** among 1.1M+ candidates
@@ -134,9 +96,9 @@ I'm always open to internships, collaborations, and interesting tech discussions
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukuwul)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_LINK)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](ADD_LEETCODE_LINK)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](ADD_CODEFORCES_LINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-negi-2a898827a/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mukuwul/)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nmukul32)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmukul32@gmail.com)
 
 </div>
