@@ -18,6 +18,8 @@ Full-stack developer and CS undergrad at BIT Mesra. Interested in system design,
 - [STOCKER](https://github.com/Mukuwul/STOCKER) — Inventory and stock management backend.
 - [SPORTSTIVA](https://github.com/Mukuwul/SPORTSTIVA) — Sports application.
 - [COIN_WATCH](https://github.com/Mukuwul/COIN_WATCH) — Cryptocurrency tracking platform.
+- [Murmur](https://github.com/Mukuwul/Murmur) — Real-time chat / messaging application.
+- [Amazon HackOn](https://github.com/Mukuwul/Amazon-HackOn) — Project built for the Amazon HackOn hackathon.
 
 **Achievements**
 
