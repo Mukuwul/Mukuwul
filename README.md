@@ -8,7 +8,7 @@ Full-stack developer and CS undergrad at BIT Mesra. Interested in system design,
 [![LeetCode](https://img.shields.io/badge/LeetCode-333333?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mukuwul/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-333333?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nmukul32)
 
----
+----
 
 #### Works
 
