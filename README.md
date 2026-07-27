@@ -1,5 +1,5 @@
 ### Mukul Negi
-
+[![Holopin Badges](https://holopin.me/mukuwul)](https://holopin.io/@mukuwul)
 Full-stack developer and CS undergrad at BIT Mesra. Interested in system design, backend architecture, and scalable applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mukuwul)
