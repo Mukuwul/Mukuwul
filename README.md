@@ -21,6 +21,18 @@ Full-stack developer and CS undergrad at BIT Mesra. Interested in system design,
 - [Murmur](https://github.com/Mukuwul/Murmur) — Agent swarm orchestrator 
 - [Amazon HackOn](https://github.com/Mukuwul/Amazon-HackOn) — Project built for the Amazon HackOn hackathon.
 
+**Open Source**
+
+1. [Dapr CLI (CNCF)](https://github.com/dapr/cli): Authored 7 PRs repairing the CLI's error contract — non-zero exits on failed `stop` and `uninstall`, status banners routed off stdout to keep piped output intact, and silent `mtls renew-certificate --restart` failures surfaced instead of swallowed.
+2. [Vitess (CNCF)](https://github.com/vitessio/vitess): Authored 6 PRs hardening the `vtctldclient` and `rulesctl` command-line surface, delivering fail-fast validation of Reshard and MoveTables flag combinations and clean stdout/stderr separation so `--format=json` output stays machine-parseable.
+3. [Helm (CNCF)](https://github.com/helm/helm): Authored 5 PRs on storage-layer and cross-platform correctness, covering SQL driver error mapping and transaction commit handling, interactive prompts moved to stderr, timezone-aware CLI timestamps, and a Windows test-compilation fix.
+4. [Descheduler (Kubernetes SIGs)](https://github.com/kubernetes-sigs/descheduler): Authored 4 PRs on the `nodeutilization` plugin, eliminating a shared informer-cache mutation and correcting toleration-aware eviction against tainted destinations.
+
+**Experience**
+
+- **Full-Stack Developer — Soil Suitability App** (2024 – Present) — Co-founded an agri-tech project building a soil-suitability web app that delivers data-driven crop recommendations to farmers from soil parameters (N, P, K, pH). Architected the React + Node/Express stack and integrated ML-based suitability scoring.
+- **Tech Lead — IEEE on Campus, BIT Mesra** (2023 – Present) — Lead the technical wing of the campus GDG chapter — organising workshops, hackathons, and coding events reaching 200+ student developers.
+
 **Achievements**
 
 - 900+ DSA problems solved across platforms.
