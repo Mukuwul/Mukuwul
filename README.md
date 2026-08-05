@@ -30,7 +30,7 @@ Full-stack developer and CS undergrad at BIT Mesra. Interested in system design,
 
 **Experience**
 
-- **Full-Stack Developer — Soil Suitability App** (2024 – Present) — Co-founded an agri-tech project building a soil-suitability web app that delivers data-driven crop recommendations to farmers from soil parameters (N, P, K, pH). Architected the React + Node/Express stack and integrated ML-based suitability scoring.
+- **Full-Stack Developer — Soil Suitability App** (2024 – Present) —  building a soil-suitability web app that delivers data-driven crop recommendations to farmers from soil parameters (N, P, K, pH). Architected the React + Node/Express stack and integrated ML-based suitability scoring.
 - **Tech Lead — IEEE on Campus, BIT Mesra** (2023 – Present) — Lead the technical wing of the campus GDG chapter — organising workshops, hackathons, and coding events reaching 200+ student developers.
 
 **Achievements**
