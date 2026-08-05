@@ -1,4 +1,7 @@
 ### Mukul Negi
+https://github.com/search?q=is%3Apr+author%3AMukuwul+-user%3AMukuwul+-user%3Asuwubh&type=pullrequests&s=created&o=desc
+
+
 [![Holopin Badges](https://holopin.me/mukuwul)](https://holopin.io/@mukuwul)
 Full-stack developer and CS undergrad at BIT Mesra. Interested in system design, backend architecture, and scalable applications.
 
